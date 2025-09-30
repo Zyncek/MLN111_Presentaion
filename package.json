@@ -14,10 +14,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "vite preview --port $PORT",
-    "test": "vitest --run",
-    "format.fix": "prettier --write .",
-    "typecheck": "tsc"
+    "start": "vite preview --port $PORT"
   },
   "engines": {
     "node": ">=16.x"
